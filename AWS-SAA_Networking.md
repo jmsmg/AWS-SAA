@@ -1,5 +1,16 @@
 # AWS-SAA Networking, Content Delivery
 
+## [API Gateway](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html)
+
+- 상태저장(WebSocket)
+- 상태비저장(HTTP, REST)
+
+## [Direct Connect](https://aws.amazon.com/ko/directconnect/)
+  > 병목현상 방지
+
+- 온프레미스에서 AWS로 물리적인 연결을 함
+- 연결까지 시간이 오래걸림
+
 ## [Global Accelerator](https://docs.aws.amazon.com/ko_kr/global-accelerator/latest/dg/what-is-global-accelerator.html)
 
 - 글로벌 트래픽이 최적의 엔드포인트로 연결되도록 지연시간을 줄여주는 서비스
