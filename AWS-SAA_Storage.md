@@ -1,8 +1,8 @@
 # AWS SAA_Storage
 
-## S3
+## [S3](https://aws.amazon.com/ko/s3/)
 
-### [Encryption for object(객체 암호화)](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/UsingEncryption.html)
+### Encryption for object(객체 암호화)
 > 서버측 암호화, 클라이언트측 암호화 2가지로 나누어진다.
 
 #### 1. 서버측 암호화
