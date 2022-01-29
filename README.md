@@ -4,3 +4,5 @@
 - [AWS-SAA_Database](AWS-SAA_Database.md)
 - [AWS-SAA Networking, Content Delivery](AWS-SAA_Networking.md)
 - [AWS SAA_Storage](AWS-SAA_Storage.md)
+- [AWS-SAA_Security](AWS-SAA_Security.md)
+- [AWS-SAA_Analytics](AWS-SAA_Analytics.md)
