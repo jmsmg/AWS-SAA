@@ -3,8 +3,8 @@
 ## [S3](https://aws.amazon.com/ko/s3/)
 
 - 출제경향
+  - S3 vs EFS vs EBS 
   - S3 수명 주기 관련문제
-  - 
 
 ### 수명 주기
 
@@ -33,3 +33,4 @@
   - 클라이언트 제공 암호화키 사용, **HTTPS 사용**, AWS에서 키를 저장하지않음
 - Client Side Encryption(클라이언트측 암호화)
   - 클라이언트가 S3로 파일을 보내기전 암호화하고 S3에 보관함
+
