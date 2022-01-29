@@ -1,5 +1,8 @@
 # AWS-SAA Networking, Content Delivery
 
+## [Tran-sit Gateway](https://aws.amazon.com/transit-gateway/)
+  > Amazon Virtual Private Cloud(VPC)와 온프레미스 네트워크를 단일 게이트웨이에 연결할 수 있도록 하는 서비스
+
 ## [API Gateway](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html)
 
 - 상태저장(WebSocket)
