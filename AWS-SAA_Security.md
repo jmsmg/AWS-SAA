@@ -1,5 +1,11 @@
 # AWS-SAA Security, Identity, & Compliance
 
+## [IAM](https://docs.aws.amazon.com/iam/)
+
+### 권한 경계
+
+- 권한 경계를 설정하면 과도한 권한을 가진 사용자의 권한을 제한할 수 있음
+
 ## [Amazon GuardDuty](https://aws.amazon.com/ko/guardduty/)
   > 지능형 위협탐지로 무단활동 차단 워크로드에서 악의적 활동을 모니터링하고, 상세한 보안 결과를 제공
 
