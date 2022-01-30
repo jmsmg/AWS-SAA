@@ -10,6 +10,9 @@
 
 ![S3_class](img/AWS-SAA_Storage_01_S3.png)
 
+### 사용 프로토콜
+- SMB, NFS
+
 ### 객체 버전 관리
 
 - Retain Until Date
@@ -53,3 +56,18 @@
 - 파일 시스템 생성하고 파일 저장
 - 단일 EC2 인스턴스의 전용 블록 스토리지
 - 볼륨의 크기를 변경은 수동적인 작업
+
+
+## [Storage Gateway](https://aws.amazon.com/storagegateway/)
+
+### File Gateway
+
+- SMB, NFS 프로토콜 사용하여 S3에서 객체 저장
+
+### Volume Gateway
+
+- iSCSI를 통한 스토리지 볼륨 제공
+
+### Tape Gateway
+
+- 백업 데이터를 내구성 좋은 방식으로 Glacier나 Glacier Deep Archive에 저장
