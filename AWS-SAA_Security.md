@@ -28,3 +28,10 @@
 - 자격증명 풀(identity pool) : 액세스 제어 
   - 사용자에게 Amazon Simple Storage Service(Amazon S3) 버킷 또는 Amazon DynamoDB 테이블과 같은 AWS 리소스에 대한 액세스 권한 부여
   - 인증되지 않은 사용자를 위한 임시 AWS 자격 증명 생성 
+
+
+## [보안그룹 vs ACL](https://aws.amazon.com/ko/premiumsupport/knowledge-center/connect-http-https-ec2/)
+
+- 보안그룹은 상태 저장 (인바운드를 하면 자동으로 아웃바운드도 OK)
+
+- ACL은 상태 비저장
