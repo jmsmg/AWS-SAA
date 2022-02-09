@@ -1,5 +1,9 @@
 # AWS-SAA Security, Identity, & Compliance
 
+[Secret Key Manager]
+
+- 수명 주기 동안 데이터베이스 자격 증명, API 키 및 기타 비밀을 쉽게 교체, 관리 및 검색할 수 있습니다
+
 ## [IAM](https://docs.aws.amazon.com/iam/)
 
 ### 권한 경계

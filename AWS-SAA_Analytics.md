@@ -17,4 +17,9 @@
 
 ### Kinesis Data Firehose
 
+- 단일 로그처리 모델
+  - kinesis data stream과 연결하면 PutRecordBatch, PutRecord가 비활성화 되어 다른 데이터 세트를 추가하려면 data stream을 추가해야함
+
+- 데이터 처리량에 맞게 자동 확장됨
+
 ### Kinesis Data Analytics
