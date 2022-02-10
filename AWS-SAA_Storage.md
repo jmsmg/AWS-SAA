@@ -75,3 +75,11 @@
 ### Tape Gateway
 
 - 백업 데이터를 내구성 좋은 방식으로 Glacier나 Glacier Deep Archive에 저장
+
+### 서비스 간단 비교
+
+- DataSync: 파일시스템간 데이터 동기화 (온프레미스-클라우드, 클라우드-클라우드, 온프레미스-온프레미스는 X)
+- Storage Gateway: 온프레미스의 Application이 클라우드의 스토리지를 활용할수 있음
+- Backup: 클라우드의 스토리지 백업수행.
+- Transfer Family: 클라우드의 스토리지를 파일서버로 사용 (SFTP, FTP)
+- Database Migration Service: 동일기종 및 이기종 데이터베이스간 Migration (온프레미스-클라우드, 클라우드-클라우드, 온프레미스-온프레미스는 X)
