@@ -6,3 +6,13 @@
 - [AWS SAA_Storage](AWS-SAA_Storage.md)
 - [AWS-SAA_Security](AWS-SAA_Security.md)
 - [AWS-SAA_Analytics](AWS-SAA_Analytics.md)
+
+---
+
+s3 transfer accelertor
+s3 버킷 정책
+
+vpc 피어링
+SCP
+ROUTE53 CNAME
+람다 인메모리, api gateway 캐싱
