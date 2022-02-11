@@ -76,7 +76,7 @@
 
 - 백업 데이터를 내구성 좋은 방식으로 Glacier나 Glacier Deep Archive에 저장
 
-### 서비스 간단 비교
+## 서비스 간단 비교
 
 - DataSync: 파일시스템간 데이터 동기화 (온프레미스-클라우드, 클라우드-클라우드, 온프레미스-온프레미스는 X)
 - Storage Gateway: 온프레미스의 Application이 클라우드의 스토리지를 활용할수 있음
